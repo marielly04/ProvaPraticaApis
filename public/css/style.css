@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+.caixa{
+    display: flex;
+    background-color: blueviolet;
+}
